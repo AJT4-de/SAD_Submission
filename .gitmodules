@@ -1,0 +1,6 @@
+[submodule "SAD_HD_2025_05"]
+	path = SAD_HD_2025_05
+	url = https://github.com/AJT4-de/SAD_HD_2025_05.git
+[submodule "SAD_StudentManagementSystem"]
+	path = SAD_StudentManagementSystem
+	url = https://github.com/AJT4-de/SAD_StudentManagementSystem.git
